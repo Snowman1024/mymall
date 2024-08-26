@@ -20,7 +20,7 @@
 		<java.version>1.8</java.version>
 		<org.apache.commons.lang3.version>3.7</org.apache.commons.lang3.version>
 		<com.alibaba.fastjson.version>1.2.31</com.alibaba.fastjson.version>
-		<io.springfox.swagger.version>2.8.0</io.springfox.swagger.version>
+		<io.springfox.swagger.version>2.10.0</io.springfox.swagger.version>
 		<mysql.version>8.0.15</mysql.version>
 		<jjwt.version>0.9.0</jjwt.version>
 		<commons-codec-version>1.10</commons-codec-version>
